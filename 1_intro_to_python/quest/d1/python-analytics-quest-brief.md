@@ -153,11 +153,11 @@ If you want to go above and beyond the basics, as optional extra features,here a
 
 - Apply proper error handling try-except-finally blocks to handle user input or other errors.
 - Args and kwargs: Update the functions to accept **`*args`** and **`**kwargs`** parameters. Modify the function calls to pass the required arguments using **`*args`** and **`**kwargs`**.
-    - [Python args and kwargs: Demystified](https://realpython.com/python-kwargs-and-args/)
+  - [Python args and kwargs: Demystified](https://realpython.com/python-kwargs-and-args/)
 - Zip and unzip: Implement the use of **`zip`** to iterate over two or more iterables simultaneously, such as iterating over items and their corresponding keys.
-    - [Zipping and Unzipping Iterables in Python](https://towardsdatascience.com/zip-function-in-python-da91c248385d)
+  - [Zipping and Unzipping Iterables in Python](https://towardsdatascience.com/zip-function-in-python-da91c248385d)
 - Regex: Incorporate regex patterns to validate user input for actions.
-    - [Regular Expressions: Regexes in Python](https://realpython.com/regex-python/)
+  - [Regular Expressions: Regexes in Python](https://realpython.com/regex-python/)
 - Apply OOP: Refactor the code into classes to encapsulate the game logic, map, and state.
 
 ### The Presentation
@@ -171,10 +171,9 @@ You will present your game on Friday morning to the class showcasing how your ga
 All presentations will be done **from a staff member’s computer**, so **your slides need to be online**. PowerPoint files, Keynote files or files of any kind **will not be accepted**.
 
 - Suggested online slide applications:
-    - [Google Slides](https://www.google.com/slides/about/)
-    - [Slides](https://slides.com/)
-    - [Prezi](https://prezi.com/)
-
+  - [Google Slides](https://www.google.com/slides/about/)
+  - [Slides](https://slides.com/)
+  - [Prezi](https://prezi.com/)
 
 ### Presentation Structure
 
