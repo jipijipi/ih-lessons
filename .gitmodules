@@ -1,0 +1,6 @@
+[submodule "flaskapi"]
+	path = flaskapi
+	url = https://github.com/ta-data-par/flaskapi.git
+[submodule "bigquery"]
+	path = bigquery
+	url = https://github.com/ta-data-par/bigquery.git
